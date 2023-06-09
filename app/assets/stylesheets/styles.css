@@ -1,0 +1,12 @@
+.cuerpo{
+    background-color: #f3f7ce;
+}
+
+.foto img,#redes img{
+    border-radius: 20%;
+    width: 10rem;
+}
+
+#cartas img{
+    height: 10rem;
+}
