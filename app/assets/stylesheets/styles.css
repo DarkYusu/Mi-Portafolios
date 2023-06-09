@@ -10,3 +10,7 @@
 #cartas img{
     height: 10rem;
 }
+
+#cartas a{
+    border-radius: 10px;
+}
